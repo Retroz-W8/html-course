@@ -1,0 +1,17 @@
+p {
+  font-family: Arial;
+}
+
+.img1 {
+  width: 300px;
+  display: block;
+}
+
+.searchbar {
+}
+
+.title {
+  width: 234px;
+  font-weight: bold;
+  font-size: 17px;
+}
